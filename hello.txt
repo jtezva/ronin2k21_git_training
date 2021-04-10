@@ -1,1 +1,2 @@
 Hello everyone!
+This line was added in the second commit!
